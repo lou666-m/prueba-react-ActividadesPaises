@@ -1,0 +1,16 @@
+.paises-estilo{
+    padding: 1rem;
+}
+
+.frio {
+ background-color: aqua;
+}
+
+.rico {
+    background-color: greenyellow;
+}
+
+.caliente{
+    background-color: red;
+}
+
